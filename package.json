@@ -27,7 +27,7 @@
     "@angular/platform-server": "^4",
     "@angular/router": "^4",
     "angularfire2": "^4.0.0-rc.1",
-    "codelyzer": "^3.0.1",
+    "codelyzer": "^3.2.2",
     "core-js": "^2",
     "firebase": "^4",
     "hammerjs": "^2",
